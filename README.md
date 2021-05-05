@@ -7,7 +7,7 @@ https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?distric
 
 district_id={applicableid}
 
-district  district id 
+District  District id 
 pune         363  
 mumbai       395
 surat        776   
